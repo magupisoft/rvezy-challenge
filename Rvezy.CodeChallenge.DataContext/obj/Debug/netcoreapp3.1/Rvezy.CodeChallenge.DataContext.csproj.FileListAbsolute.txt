@@ -1,0 +1,15 @@
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.deps.json
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.runtimeconfig.json
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.runtimeconfig.dev.json
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.dll
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.pdb
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.dll
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.pdb
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.csprojAssemblyReference.cache
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.AssemblyInfoInputs.cache
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.AssemblyInfo.cs
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.csproj.CopyComplete
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.dll
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.pdb
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.genruntimeconfig.cache
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.DataContext\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.csproj.CoreCompileInputs.cache

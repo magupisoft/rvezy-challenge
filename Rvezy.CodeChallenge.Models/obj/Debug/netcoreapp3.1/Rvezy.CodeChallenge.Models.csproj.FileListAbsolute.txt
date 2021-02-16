@@ -1,0 +1,9 @@
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Models\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.deps.json
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Models\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.dll
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Models\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.pdb
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Models\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.csproj.CoreCompileInputs.cache
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Models\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.AssemblyInfoInputs.cache
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Models\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.AssemblyInfo.cs
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Models\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.dll
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Models\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.pdb
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Models\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.csprojAssemblyReference.cache

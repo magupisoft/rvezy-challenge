@@ -1,0 +1,14 @@
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Repository.deps.json
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Repository.dll
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Repository.pdb
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Repository.csproj.CoreCompileInputs.cache
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Repository.AssemblyInfoInputs.cache
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Repository.AssemblyInfo.cs
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Repository.dll
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Repository.pdb
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.dll
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.dll
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.DataContext.pdb
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\bin\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Models.pdb
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Repository.csprojAssemblyReference.cache
+C:\dev\RVezy .NET Software Developer Test\app\Rvezy.CodeChallenge.Repository\obj\Debug\netcoreapp3.1\Rvezy.CodeChallenge.Repository.csproj.CopyComplete

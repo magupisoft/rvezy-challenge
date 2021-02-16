@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S26SVfRgeUD4xMd+OV9IMfybxWiJtbizlXWL4REmzpJCBHKXm9pnArZNickJveqwDFjqTGtytwpgFmQY3sfqcA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\RVezy .NET Software Developer Test\\app\\Rvezy.CodeChallenge.Service\\Rvezy.CodeChallenge.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manuel gutierrez\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
